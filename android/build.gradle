@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace "com.wongpiwat.trust_location"
-    compileSdkVersion 29
+    compileSdkVersion 36
 
     defaultConfig {
         minSdkVersion 21
